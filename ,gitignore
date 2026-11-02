@@ -1,0 +1,29 @@
+# Python gyorsítótárak és fordított fájlok
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Környezeti és konfigurációs fájlok
+.env
+.venv
+venv/
+ENV/
+env/
+
+# Ideiglenesen generált build és kiadási mappák / fájlok
+*.tar.gz
+*.zip
+HGSoft-DynamicWallpaperMaker-*/
+
+# IDE és szerkesztő beállítások
+.vscode/
+.idea/
+*.swp
+*~
+
+# Operációs rendszer fájlok
+.DS_Store
+Thumbs.db
+
+# Helyi tesztelés során generált kimenetek
+*.log
